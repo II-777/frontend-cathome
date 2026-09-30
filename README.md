@@ -1,5 +1,9 @@
 # CatHome
 
-A small CSS Grid page for a cat shelter: header, gallery, and footer. Built while practicing grids in the GoIT markup track.
+A CSS Grid page for a cat shelter: articles, a photo gallery, and social links.
 
 **Stack:** HTML, CSS
+
+## Live
+
+https://goit-css-grids-project.vercel.app/
